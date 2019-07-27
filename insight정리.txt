@@ -1,0 +1,13 @@
+데이터 구조
+train dataset : 9990
+test  dataset : 6150
+
+총 클래스 개수 : 196
+
+196개에 대한 클래스 분포는 거의 균등함.
+-> imblanced 하지 않는 데이터에 대해서는 다르게 접근 해야 함!
+
+현재 train.csv
+       test.csv 에는 bounding axis가 존재.
+
+
